@@ -22,7 +22,7 @@ oq traz uma diferencia ao site.
 - imagens/: Pasta que contém todas as imagens utilizadas no projeto.
 - videos/: Pasta que contém o vídeo de fundo.
 
-## Entregue:
+## Entrega:
 <p>- A entrega foi feita em formato HTML e CSS.</p>
 <p>- Entregue em 08/10/2024, como solicitado.</p>
 
